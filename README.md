@@ -20,3 +20,5 @@ Heuristic Problm Solving CSCI-GA 2965
 Theory of Computation CSCI-UA 453
 
 Computer Graphics CSCI-GA 2270
+
+Special Topics: Machine Learning CSCI-UA 480
