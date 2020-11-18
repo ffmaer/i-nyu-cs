@@ -18,6 +18,6 @@ Heuristic Problm Solving CSCI-GA 2965
 
 Theory of Computation CSCI-UA 453
 
-Computer Graphics CSCI-GA 2270
+[Computer Graphics CSCI-GA 2270](https://web.archive.org/web/20201003121542/https://mrl.nyu.edu/~perlin/courses/spring2012/)
 
 Special Topics: Machine Learning CSCI-UA 480
