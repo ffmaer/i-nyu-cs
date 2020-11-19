@@ -4,7 +4,7 @@
 
 Intro to Computer SCI V22. 101
 
-Computational Thought V50. 385
+[Computational Thought V50. 385](https://web.archive.org/web/20110510155937/https://cs.nyu.edu/cs/faculty/shasha/papers/compthought.html)
 
 ## Spring 2010
 
@@ -24,7 +24,7 @@ Operating Systems V22. 202
 
 ## Fall 2011
 
-Heuristic Problm Solving CSCI-GA 2965
+[Heuristic Problm Solving CSCI-GA 2965](https://web.archive.org/web/20171022091616/http://cs.nyu.edu/courses/fall11/CSCI-GA.2965-001/)
 
 Theory of Computation CSCI-UA 453
 
