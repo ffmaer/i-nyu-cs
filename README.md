@@ -36,7 +36,7 @@ Theory of Computation CSCI-UA 453
 
 Special Topics: Machine Learning CSCI-UA 480
 
-## CIMS Courses
+## Courant Institute of Mathematical Sciences - Computer Science Courses
 
 [Fall 2009](https://web.archive.org/web/20201122005046/https://cs.nyu.edu/home/courses/archive/fall09.html)
 
