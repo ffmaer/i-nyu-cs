@@ -38,6 +38,6 @@ Special Topics: Machine Learning CSCI-UA 480
 
 ## CIMS Courses
 
-Fall 2019 https://web.archive.org/web/20201122005046/https://cs.nyu.edu/home/courses/archive/fall09.html
+[Fall 20190](https://web.archive.org/web/20201122005046/https://cs.nyu.edu/home/courses/archive/fall09.html)
 
-Spring 2010 https://web.archive.org/web/20201122004837/https://cs.nyu.edu/home/courses/archive/spring10.html
+[Spring 2010](https://web.archive.org/web/20201122004837/https://cs.nyu.edu/home/courses/archive/spring10.html)
