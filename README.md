@@ -10,7 +10,7 @@ Intro to Computer SCI V22. 101
 
 [Data Structures Honors V22. 102](https://web.archive.org/web/20201118231530/https://cs.nyu.edu/courses/fall07/V22.0102-002/index.html)
 
-Numerical Computing V22. 421
+[Numerical Computing V22. 421](https://web.archive.org/web/20151231111010/http://www.cs.nyu.edu/courses/spring10/V22.0421-001/index.html)
 
 ## Fall 2010
 
