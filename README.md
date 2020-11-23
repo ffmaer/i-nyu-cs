@@ -2,7 +2,7 @@
 
 ### Fall 2009
 
-Intro to Computer SCI V22. 101
+[Intro to Computer SCI V22. 101](https://web.archive.org/web/20170427162809/https://cs.nyu.edu/courses/fall07/V22.0101-003/index.html)
 
 [Computational Thought V50. 385](https://web.archive.org/web/20110510155937/https://cs.nyu.edu/cs/faculty/shasha/papers/compthought.html)
 
@@ -38,6 +38,6 @@ Special Topics: Machine Learning CSCI-UA 480
 
 ## Courant Institute of Mathematical Sciences - Computer Science Courses
 
-[Fall 2009](https://web.archive.org/web/20201122005046/https://cs.nyu.edu/home/courses/archive/fall09.html)
+[Fall 2009](t)
 
 [Spring 2010](https://web.archive.org/web/20201122004837/https://cs.nyu.edu/home/courses/archive/spring10.html)
