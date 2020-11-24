@@ -16,7 +16,7 @@
 
 [Computer Systems Org Honors V22. 201](https://web.archive.org/web/20200928034122/https://cs.nyu.edu/courses/fall10/V22.0201-002/index.html)
 
-Basic Algorithms Honors V22. 310
+[Basic Algorithms Honors V22. 310](https://web.archive.org/web/20201124034749/https://cs.nyu.edu/courses/fall10/V22.0310-001/)
 
 ### Spring 2011
 
