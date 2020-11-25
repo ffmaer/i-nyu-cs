@@ -20,7 +20,7 @@
 
 ### Spring 2011
 
-Operating Systems V22. 202
+[Operating Systems V22. 202](https://web.archive.org/web/20170912023222/http://www.cs.nyu.edu/courses/spring10/V22.0202-002/index.html)
 
 ### Fall 2011
 
