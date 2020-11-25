@@ -53,3 +53,7 @@ Special Topics: Machine Learning CSCI-UA 480
 [Fall 2012](https://web.archive.org/web/20171025043814/http://cs.nyu.edu/dynamic/courses/schedule/grid/?semester=fall_2012)
 
 [Spring 2013](https://web.archive.org/web/20171025034047/http://cs.nyu.edu/dynamic/courses/schedule/grid/?semester=spring_2013)
+
+## MISC
+
+[What the old CS home page looks like](https://conifer.rhizome.org/ffmaer/new-york-university-computer-science/20201125143050/https://cs.nyu.edu/web/Academic/Undergrad/course_archive.html)
