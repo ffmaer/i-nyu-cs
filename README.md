@@ -56,4 +56,4 @@ Special Topics: Machine Learning CSCI-UA 480
 
 ## MISC
 
-[What the old CS home page looks like](https://conifer.rhizome.org/ffmaer/new-york-university-computer-science/20201125143050/https://cs.nyu.edu/web/Academic/Undergrad/course_archive.html)
+[What the old NYU CS department home page looks like](https://conifer.rhizome.org/ffmaer/new-york-university-computer-science/20201125143050/https://cs.nyu.edu/web/Academic/Undergrad/course_archive.html)
