@@ -38,6 +38,8 @@ Special Topics: Machine Learning CSCI-UA 480
 
 ## Courant Institute of Mathematical Sciences - Computer Science Courses
 
-[Fall 2009](t)
+[Fall 2009](https://web.archive.org/web/20201122005046/https://cs.nyu.edu/home/courses/archive/fall09.html)
 
 [Spring 2010](https://web.archive.org/web/20201122004837/https://cs.nyu.edu/home/courses/archive/spring10.html)
+
+[Spring 2011](https://web.archive.org/web/20201125141103/https://cs.nyu.edu/dynamic/courses/schedule/grid/?semester=spring_2011)
