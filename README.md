@@ -42,4 +42,6 @@ Special Topics: Machine Learning CSCI-UA 480
 
 [Spring 2010](https://web.archive.org/web/20201122004837/https://cs.nyu.edu/home/courses/archive/spring10.html)
 
+[Fall 2010](https://web.archive.org/web/20171025043809/https://cs.nyu.edu/dynamic/courses/schedule/grid/?semester=fall_2010)
+
 [Spring 2011](https://web.archive.org/web/20201125141103/https://cs.nyu.edu/dynamic/courses/schedule/grid/?semester=spring_2011)
