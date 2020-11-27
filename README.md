@@ -57,3 +57,28 @@ Special Topics: Machine Learning CSCI-UA 480
 ## MISC
 
 [What the old NYU CS department home page looks like](https://conifer.rhizome.org/ffmaer/new-york-university-computer-science/20201125143050/https://cs.nyu.edu/web/Academic/Undergrad/course_archive.html)
+
+## Course Topics
+
+
+Intro to Computer SCI V22. 101
+
+Computational Thought V50. 385
+
+Data Structures Honors V22. 102
+
+Numerical Computing V22. 421
+
+Computer Systems Org Honors V22. 201
+
+Basic Algorithms Honors V22. 310
+
+Operating Systems V22. 202
+
+Heuristic Problm Solving CSCI-GA 2965
+
+Theory of Computation CSCI-UA 453
+
+Computer Graphics CSCI-GA 2270
+
+Special Topics: Machine Learning CSCI-UA 480
