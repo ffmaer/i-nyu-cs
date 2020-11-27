@@ -34,7 +34,7 @@
 
 ### Fall 2012
 
-Special Topics: Machine Learning CSCI-UA 480
+[Special Topics: Machine Learning CSCI-UA 480](https://web.archive.org/web/20150510101341/http://cs.nyu.edu/~dsontag/courses/ml12/)
 
 ## Courant Institute of Mathematical Sciences - Computer Science Courses
 
