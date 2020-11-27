@@ -26,7 +26,7 @@
 
 [Heuristic Problm Solving CSCI-GA 2965](https://web.archive.org/web/20171022091616/http://cs.nyu.edu/courses/fall11/CSCI-GA.2965-001/)
 
-Theory of Computation CSCI-UA 453
+[Theory of Computation CSCI-UA 453](https://web.archive.org/web/20170331123540/http://www.cs.nyu.edu/courses/fall11/CSCI-UA.0453-001/)
 
 ### Spring 2012
 
