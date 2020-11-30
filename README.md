@@ -90,3 +90,4 @@ Algorithms that generate 3D parametric shapes (cylinder, cube, sphere), nested t
 
 ### Special Topics: Machine Learning CSCI-UA 480
 
+Linear classifiers, support vector machines, kernel methods, learning theory, nearest neighbor methods, decision trees, ensemble methods, boosting, clustering, Bayesian methods, naïve Bayes, logistic regression, linear regression, mixture models, EM algorithm, hidden Markov models, factor analysis, dimensionality reduction, principal component analysis
