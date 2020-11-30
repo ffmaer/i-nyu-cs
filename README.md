@@ -70,10 +70,11 @@
 
 ### Computer Systems Org Honors V22. 201
 
+C programming, x86 Assembly, registers, the memory hierarchy, bit masking, transistors, gates, boolean formulas
+
 ### Basic Algorithms Honors V22. 310
 
 Analysis of running time, sorting algorithms (insertion sort, merge sort, quick sort, heapsort), binary search tree, dynamic programming, greedy algorithms, Huffman coding tree, SOLE encoding, BFS, DFS, topological sort, Dijkstra's algorithm, Bellman-Ford algorithm
-
 
 ### Operating Systems V22. 202
 
