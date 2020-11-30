@@ -78,6 +78,8 @@ Analysis of running time, sorting algorithms (insertion sort, merge sort, quick 
 
 ### Operating Systems V22. 202
 
+Processes & threads, memory management, file systems, I/O, deadlocks
+
 ### Heuristic Problm Solving CSCI-GA 2965
 
 ### Theory of Computation CSCI-UA 453
