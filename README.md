@@ -82,6 +82,8 @@ Processes & threads, memory management, file systems, I/O, deadlocks
 
 ### Heuristic Problm Solving CSCI-GA 2965
 
+approximation algorithms for NP-complete problems, K as prototyping language, the Ukkonen trick, A* algorithm, the travelling salesman problem, local search, Lin-Kernighan optimizations, Christophides guaranteed 3/2 approximation, simulated annealing, tabu search, Pantel: "Advanced Adversary Search Algorithms", clustering algorithm, evolutionary algorithms, bit encoding, the knapsack problem, the genetic algorithm idea, swarm algorithms, gradient method, the characteristics of the search space, gradient descent, resampling statistics, decision tree learning, linear programming, convex optimization, uses of satisfiability for heuristic problem solving
+
 ### Theory of Computation CSCI-UA 453
 
 What can and cannot be computed? Hilbert's 10th problem, the Halting Problem, Gödel's Theorem, proof by contradiction, review of induction and recursion, finite automata, regular languages, the (first) Pumping Lemma, Pushdown Automata, Context Free Languages, the (second) Pumping Lemma, computability and non-computability, NP Completeness
