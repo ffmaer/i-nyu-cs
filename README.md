@@ -84,6 +84,8 @@ Processes & threads, memory management, file systems, I/O, deadlocks
 
 ### Theory of Computation CSCI-UA 453
 
+What can and cannot be computed? Hilbert's 10th problem, the Halting Problem, Gödel's Theorem, proof by contradiction, review of induction and recursion, finite automata, regular languages, the (first) Pumping Lemma, Pushdown Automata, Context Free Languages, the (second) Pumping Lemma, computability and non-computability, NP Completeness
+
 ### Computer Graphics CSCI-GA 2270
 
 Algorithms that generate 3D parametric shapes (cylinder, cube, sphere), nested transformations, ray-tracing, z-buffering, anti-aliasing, material, and light. Java Abstract Window Toolkit (Java AWT) used.
