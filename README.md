@@ -64,6 +64,8 @@
 
 ### Computational Thought V50. 385
 
+Russell paradox, Frege, Goedel, Turing, undecidability of the halting problem, Thue systems, Russell's theory of types, linguistics and computation, systax vs. semantics, Chomsky's hierarchy of language descriptions, finate state automata, context-free languages, transformational grammars, Fortran, Lisp, story of John Backus, computer anatomy and architecture, electrical properties of resistors and transistors, construction of inverters, NAND gates, Boolean logic and algebra, Sheffer stroke gates, flip-flops, clocked logic, memory, memory hierarchy, instructions and circuit implementation, program counter/branching, basic operating system, programming languages, Eliza program, sorting techniques, algorithms, graph theory, shortest path, minimum spanning tree, min cut/max flow, decision trees, searching, binary search, information theoretic "lower bound" arguments, hashing and the arithmetic work-around, security for the internet, parallel computing, Amdahl's law, artificial intelligence, knowledge logic, elementary game theory, social analysis, decision trees, alpha-beta pruning, expert systems, machine intelligence: try to infer rules, use of information theory for learning decision trees, the use of simple intelligence for swarms, DNA computing, the pricipal of complementarity, computing with viruses
+
 ### Data Structures Honors V22. 102
 
 ### Numerical Computing V22. 421
