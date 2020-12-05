@@ -110,6 +110,8 @@ Linear classifiers, support vector machines, kernel methods, learning theory, ne
 
 ### Data Structures Honors V22. 102
 
+Data Structures & Algorithm Analysis in JAVA Second Edition, by Mark Allen Weiss
+
 ### Numerical Computing V22. 421
 
 ### Computer Systems Org Honors V22. 201
