@@ -106,11 +106,15 @@ Linear classifiers, support vector machines, kernel methods, learning theory, ne
 
 ### Intro to Computer SCI V22. 101
 
+Introduction to Java Programming: Fundamentals First (Sixth Edition), By Y Daniel Liang
+
+(Optional) Java How to Program (Sixth Edition), By Deitel and Deitel
+
 ### Computational Thought V50. 385
 
 ### Data Structures Honors V22. 102
 
-Data Structures & Algorithm Analysis in JAVA Second Edition, by Mark Allen Weiss
+Data Structures & Algorithm Analysis in JAVA Second Edition, By Mark Allen Weiss
 
 ### Numerical Computing V22. 421
 
