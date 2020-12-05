@@ -68,6 +68,8 @@ Russell paradox, Frege, Goedel, Turing, undecidability of the halting problem, T
 
 ### Data Structures Honors V22. 102
 
+recursion, asymptotic analysis of algorithms, lists, stacks, queues, trees, heaps, sorting, hashing, Huffman codes
+
 ### Numerical Computing V22. 421
 
 one-dimensional nonlinear equations, errors, floating-point systems, IEEE arithmetic, linear algebra review, direct methods for nonsigular linear systems, LU factorization, pivoting strategies in Gaussian elimination, stability analysis of Gaussian elimination with partial pivoting, disadvantages of calculating the inverse, symmetric linear systems, positive definite symmetric systems, sysmmetric indefinite systems, householder transformations and triangularization, data fitting, linear least-squares, normal equations, QR factorization, numerical rank estimation, SVD, rank-revealing QR, polynomial interpolation, representations of the interpolating polynomial, polynomial interpolation at many equally spaced points, piecewise polynominal interpolation, splines, piecewise cubic Hermite interpolation, smoothing splines, numerical integration (quadrature), composite quadrature rules, Romberg integration, initial value problems in ordinary differential equations
