@@ -110,7 +110,7 @@ Linear classifiers, support vector machines, kernel methods, learning theory, ne
 
 Introduction to Java Programming: Fundamentals First (Sixth Edition), by Y Daniel Liang
 
-(Optional) Java How to Program (Sixth Edition), ny Deitel and Deitel
+(Optional) Java How to Program (Sixth Edition), by Deitel and Deitel
 
 ### Computational Thought V50. 385
 
