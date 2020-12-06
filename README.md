@@ -114,12 +114,6 @@ Introduction to Java Programming: Fundamentals First (Sixth Edition), by Y Danie
 
 ### Computational Thought V50. 385
 
-Puzzles for Programmers and Pros, by Dennis Shasha
-
-How to Solve It: Modern Heuristics, by David B. Fogel and Zbigniew Michalewicz
-
-(Optional) Games of No Chance, by Richard J. Nowakowski
-
 ### Data Structures Honors V22. 102
 
 Data Structures & Algorithm Analysis in JAVA Second Edition, by Mark Allen Weiss
@@ -133,6 +127,12 @@ Data Structures & Algorithm Analysis in JAVA Second Edition, by Mark Allen Weiss
 ### Operating Systems V22. 202
 
 ### Heuristic Problm Solving CSCI-GA 2965
+
+Puzzles for Programmers and Pros, by Dennis Shasha
+
+How to Solve It: Modern Heuristics, by David B. Fogel and Zbigniew Michalewicz
+
+(Optional) Games of No Chance, by Richard J. Nowakowski
 
 ### Theory of Computation CSCI-UA 453
 
