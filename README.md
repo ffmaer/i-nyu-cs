@@ -118,7 +118,7 @@ Puzzles for Programmers and Pros, by Dennis Shasha
 
 How to Solve It: Modern Heuristics, by David B. Fogel and Zbigniew Michalewicz
 
-(Optional) Games of No Chance by Richard J. Nowakowski
+(Optional) Games of No Chance, by Richard J. Nowakowski
 
 ### Data Structures Honors V22. 102
 
