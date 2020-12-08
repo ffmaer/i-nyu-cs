@@ -108,15 +108,15 @@ Linear classifiers, support vector machines, kernel methods, learning theory, ne
 
 ### Intro to Computer SCI V22. 101
 
-Introduction to Java Programming: Fundamentals First (Sixth Edition), by Y Daniel Liang
+Introduction to Java Programming: Fundamentals First (Sixth Edition) by Y Daniel Liang
 
-(Optional) Java How to Program (Sixth Edition), by Deitel and Deitel
+(Optional) Java How to Program (Sixth Edition) by Deitel and Deitel
 
 ### Computational Thought V50. 385
 
 ### Data Structures Honors V22. 102
 
-Data Structures & Algorithm Analysis in JAVA Second Edition, by Mark Allen Weiss
+Data Structures & Algorithm Analysis in JAVA Second Edition by Mark Allen Weiss
 
 ### Numerical Computing V22. 421
 
@@ -124,15 +124,17 @@ Data Structures & Algorithm Analysis in JAVA Second Edition, by Mark Allen Weiss
 
 ### Basic Algorithms Honors V22. 310
 
+Introduction to Algorithms (THIRD EDITION) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliff Stein
+
 ### Operating Systems V22. 202
 
 ### Heuristic Problm Solving CSCI-GA 2965
 
-Puzzles for Programmers and Pros, by Dennis Shasha
+Puzzles for Programmers and Pros by Dennis Shasha
 
-How to Solve It: Modern Heuristics, by David B. Fogel and Zbigniew Michalewicz
+How to Solve It: Modern Heuristics by David B. Fogel and Zbigniew Michalewicz
 
-(Optional) Games of No Chance, by Richard J. Nowakowski
+(Optional) Games of No Chance by Richard J. Nowakowski
 
 ### Theory of Computation CSCI-UA 453
 
