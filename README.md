@@ -120,6 +120,8 @@ Data Structures & Algorithm Analysis in JAVA Second Edition by Mark Allen Weiss
 
 ### Numerical Computing V22. 421
 
+A First Course on Numerical Methods by Uri Ascher and Chen Greif
+
 ### Computer Systems Org Honors V22. 201
 
 ### Basic Algorithms Honors V22. 310
