@@ -130,6 +130,8 @@ Introduction to Algorithms (THIRD EDITION) by Thomas H. Cormen, Charles E. Leise
 
 ### Operating Systems V22. 202
 
+Modern Operating Systems, 3rd Edition by Andrew S. Tannenbaum
+
 ### Heuristic Problm Solving CSCI-GA 2965
 
 Puzzles for Programmers and Pros by Dennis Shasha
