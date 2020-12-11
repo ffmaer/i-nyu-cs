@@ -124,6 +124,8 @@ A First Course on Numerical Methods by Uri Ascher and Chen Greif
 
 ### Computer Systems Org Honors V22. 201
 
+The C Programming Language, 2nd. ed. by Brian Kernighan and Dennis Ritchie
+
 ### Basic Algorithms Honors V22. 310
 
 Introduction to Algorithms (THIRD EDITION) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliff Stein
