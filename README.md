@@ -145,3 +145,7 @@ How to Solve It: Modern Heuristics by David B. Fogel and Zbigniew Michalewicz
 ### Computer Graphics CSCI-GA 2270
 
 ### Special Topics: Machine Learning CSCI-UA 480
+
+Machine Learning: a Probabilistic Perspective by Kevin Murphy
+
+Pattern Recognition and Machine Learning by Chris Bishop
