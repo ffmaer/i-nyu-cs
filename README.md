@@ -36,6 +36,10 @@
 
 [Special Topics: Machine Learning CSCI-UA 480](https://web.archive.org/web/20150510101341/http://cs.nyu.edu/~dsontag/courses/ml12/)
 
+### Spring 2013
+
+N/A
+
 ## Courant Institute of Mathematical Sciences - Computer Science Courses
 
 [Fall 2009](https://web.archive.org/web/20201122005046/https://cs.nyu.edu/home/courses/archive/fall09.html)
@@ -114,6 +118,8 @@ Introduction to Java Programming: Fundamentals First (Sixth Edition) by Y Daniel
 
 ### Computational Thought V50. 385
 
+N/A
+
 ### Data Structures Honors V22. 102
 
 Data Structures & Algorithm Analysis in JAVA Second Edition by Mark Allen Weiss
@@ -144,7 +150,11 @@ How to Solve It: Modern Heuristics by David B. Fogel and Zbigniew Michalewicz
 
 ### Theory of Computation CSCI-UA 453
 
+N/A
+
 ### Computer Graphics CSCI-GA 2270
+
+N/A
 
 ### Special Topics: Machine Learning CSCI-UA 480
 
