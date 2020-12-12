@@ -151,3 +151,17 @@ How to Solve It: Modern Heuristics by David B. Fogel and Zbigniew Michalewicz
 Machine Learning: a Probabilistic Perspective by Kevin Murphy
 
 Pattern Recognition and Machine Learning by Chris Bishop
+
+## Math Courses
+
+### Fall 2009
+
+Calculus II V63. 122
+
+### Spring 2010
+
+Linear Algebra V63. 140
+
+### Fall 2011
+
+Intro to Math Analysis I MATH-GA 1410
