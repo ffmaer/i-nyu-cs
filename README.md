@@ -166,7 +166,7 @@ Pattern Recognition and Machine Learning by Chris Bishop
 
 ### Fall 2009
 
-Calculus II V63. 122
+[Calculus II V63. 122](https://web.archive.org/web/20121217052524/http://www.math.nyu.edu/courses/Calculus/2009/Fall/122)
 
 ### Spring 2010
 
