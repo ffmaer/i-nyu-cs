@@ -170,7 +170,7 @@ Pattern Recognition and Machine Learning by Chris Bishop
 
 ### Spring 2010
 
-Linear Algebra V63. 140
+[Linear Algebra V63. 140](https://web.archive.org/web/20201214002959/https://math.nyu.edu/courses/spring11/V63.0140-004_syllabus.html)
 
 ### Fall 2011
 
