@@ -174,4 +174,4 @@ Pattern Recognition and Machine Learning by Chris Bishop
 
 ### Fall 2011
 
-Intro to Math Analysis I MATH-GA 1410
+[Intro to Math Analysis I MATH-GA 1410](https://web.archive.org/web/20201215142920/https://math.nyu.edu/dynamic/courses/graduate-course-descriptions/all/fall-2016/)
